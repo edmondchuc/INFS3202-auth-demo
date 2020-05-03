@@ -2,3 +2,5 @@ flask
 authlib
 six
 requests
+gunicorn
+python-dotenv
